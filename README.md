@@ -23,7 +23,7 @@ energy-data-analysis/
 │   └── raw/
 │       └── owid-energy-data.csv
 ├── notebooks/
-│   └── 01_exploration.ipynb
+│   └── Analisi_produzione_nucleare.ipynb
 └── README.md
 ```
 
